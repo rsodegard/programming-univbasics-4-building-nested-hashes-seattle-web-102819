@@ -1,5 +1,5 @@
 def base_hash
-  random_hash = { :railroads =>  "value" }
+  random_hash = { :railroads =>  {} }
   p random_hash 
   
 end
