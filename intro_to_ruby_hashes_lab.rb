@@ -9,7 +9,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  random_hash = { :railroads =>  { :rent_in_dollars => 4 } }
+  random_hash = { :railroads =>  { :rent_in_dollars => { :key1 => "one",   } } }
   p random_hash
 end
 
