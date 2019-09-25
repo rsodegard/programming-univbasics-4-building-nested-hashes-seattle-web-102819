@@ -1,5 +1,5 @@
 def base_hash
-  random_hash = { :key: "value"}
+  random_hash = { :key =>  "value" }
   p random_hash 
   
 end
