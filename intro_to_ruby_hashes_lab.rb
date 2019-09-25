@@ -1,5 +1,7 @@
 def base_hash
-  {} 
+  random_hash = { :key: "value"}
+  p random_hash 
+  
 end
 
 def monopoly_with_second_tier
