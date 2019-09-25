@@ -1,7 +1,6 @@
 def base_hash
   random_hash = { :railroads =>  {} }
   p random_hash 
-  
 end
 
 def monopoly_with_second_tier
